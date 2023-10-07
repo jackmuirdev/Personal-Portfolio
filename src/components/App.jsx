@@ -6,7 +6,7 @@ import Contact from "../components//contact/contact";
 
 function App () {
     return (
-        <div className="page">
+        <div className="container">
             <div>
                 <Home />
             </div>
