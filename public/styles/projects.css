@@ -7,4 +7,56 @@
     font-size: 30px;
     color: #fff;
     text-align: center;
+    margin-bottom: 100px;
+}
+
+.project-container {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    margin: 0 100px;
+    transition: transform ease 0.5s;
+}
+
+.project-left {
+    margin-left: 100px;
+}
+
+.project-right {
+    margin-right: 100px;
+}
+.project-left, .project-right {
+    height: 40vh;
+    width: 50%;
+}
+
+.project-container:hover {
+    background: #2d46b9;
+    transform: translateY(-10px);
+}
+
+img {
+    margin-top: 20px;
+    width: 250px;
+    height: 250px;
+}
+
+.project-left h4 {
+    padding-top: 60px;
+}
+
+.project-left button {
+    border-radius: 6px;
+    font-size: 15px;
+    background: none;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+
+.project-left button:hover {
+    background: #1e3163;
 }
