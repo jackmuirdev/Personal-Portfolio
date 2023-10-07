@@ -7,6 +7,9 @@ const iconStyle = {
     react: { color: '#61dbfb' },
     bootstrap: { color: '#563d7c' },
     mongo: { color: "#589636"},
+    linkedin: { color: "#0077b5" },
+    github: { color: "#000333" }, 
+    phone: { color: "#ffffff" },
 };
 
 export default iconStyle;

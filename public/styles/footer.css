@@ -1,0 +1,14 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px;
+}
+
+#Footer p {
+    color: #fff;
+}
+
+.fa-brands {
+    font-size: 30px;
+    padding: 0 20px;
+}
