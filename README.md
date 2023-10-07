@@ -10,7 +10,6 @@ Welcome to my portfolio website! This website showcases my skills, projects, and
 - Responsive layout for optimal viewing on various devices.
 - Sections highlighting my skills, projects, and contact information.
 - Project gallery with descriptions and links to live demos or GitHub repositories.
-- Downloadable resume/CV.
 - Contact form for inquiries and collaboration opportunities.
 
 ## Technologies Used
@@ -19,6 +18,7 @@ Welcome to my portfolio website! This website showcases my skills, projects, and
 - CSS3
 - JavaScript
 - Bootstrap
+- React
 
 ## How to Access
 
@@ -31,7 +31,6 @@ Explore my portfolio website to learn more about my skills, browse through my pr
 - **Home**: An introduction to who I am and what I do.
 - **Portfolio**: View my featured projects, click on project cards to learn more.
 - **Skills**: Discover the technologies and skills I specialize in.
-- **Resume**: Download my resume/CV to learn more about my background.
 - **Contact**: Use the contact form to send me a message or find my social media links.
 
 ## License
