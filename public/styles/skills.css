@@ -1,0 +1,43 @@
+#skills {
+    height: 500px;
+}
+
+.skills-container {
+    color: #fff;
+    width: 425px;
+    text-align: center;
+    border-radius: 50px;
+    padding: 30px;
+    transition: transform ease 0.5s;
+}
+
+.skills-container:hover {
+    background: #2d46b9;
+    transform: translateY(-10px);
+}
+
+.skills-cont {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 40px;
+}
+
+.tech-icons {
+    text-align: center;
+    font-size: 50px;
+    margin: 100px 0 0 0;
+}
+
+.fa-brands {
+    padding: 0 20px;
+}
+
+#Skills h4 {
+    font-size: 23px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+#Skills p {
+    font-size: 12px;
+}

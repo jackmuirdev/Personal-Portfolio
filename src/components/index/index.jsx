@@ -3,7 +3,7 @@ import ParticlesBackground from "../ParticlesBackground";
 
 function Home () {
     return (
-        <div className="home">
+        <div className="home" id="Home">
             <ParticlesBackground />
             <div className="row">
                 <div className="col">

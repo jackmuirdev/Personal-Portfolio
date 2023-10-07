@@ -10,6 +10,9 @@ function App () {
             <div>
                 <Home />
             </div>
+            <div>
+                <Skills />
+            </div>
         </div>
     )
 }
