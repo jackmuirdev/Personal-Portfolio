@@ -4,14 +4,14 @@ import iconStyle from "../skills/iconstyles"
 function Contact() {
     return (
         <div id="Contact">
-            <div className="row">
-                <div className="col left-contact">
+            <div className="row contact-container">
+                <div className="left-contact">
                         <h3>Contact Me</h3>
                         <hr />
                         <p><i class="fa-solid fa-envelope" style={iconStyle.phone}></i> jmuirbusiness@gmail.com</p>
                         <p><i class="fa-solid fa-phone" style={iconStyle.phone}></i> 07715938017</p>
                     </div>
-                    <div className="col right-contact">
+                    <div className="right-contact">
                         <form method="post" action="mailto:jmuirbusiness@gmail.com">
                             <div className="form-group">
                                 <input
@@ -21,6 +21,7 @@ function Contact() {
                                     placeholder="Your Name"
                                     required
                                 />
+                                <br />
                                 <input
                                     type="email"
                                     id="email"
@@ -28,6 +29,7 @@ function Contact() {
                                     placeholder="Your Email"
                                     required
                                 />
+                                <br />
                                 <textarea
                                     id="message"
                                     name="message"
