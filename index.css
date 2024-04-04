@@ -186,6 +186,10 @@ body {
   margin-left: 5px;
 }
 
+#special-buttons {
+  margin-top: -10px;
+}
+
 /* .tech-icons-hide {
   margin-top: 185px;
 } */
